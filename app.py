@@ -78,7 +78,7 @@ if page == "Global Map":
 
 
 elif page == "Data Analytics":
-    st.title("📊 Event Distribution & Raw Data")
+    st.title("Event Distribution & Raw Data")
     
     col1, col2 = st.columns([1, 1])
     
@@ -98,7 +98,7 @@ elif page == "Data Analytics":
 
 
 elif page == "Project Information":
-    st.title("ℹ️ About This Project")
+    st.title("About This Project")
     st.markdown("""
     ### Project Narrative
     Our planet is constantly changing. This dashboard utilizes the **NASA EONET (Earth Observatory Natural Event Tracker)** 
